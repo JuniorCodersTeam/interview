@@ -71,8 +71,7 @@ Pytania teoretyczne:
                 console.log(toShow[number-1])
             }
 
-            Fibo(5)
-                                        
+            Fibo(5)        
                                         
                                         
 2. Stwórz funkcję, która przyjmie liczbę jako argument, wyświetli sumę wszystkich cyfr tworzących liczbę/argument, 

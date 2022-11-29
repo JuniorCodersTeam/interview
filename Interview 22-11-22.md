@@ -46,7 +46,6 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 ```
 
-
 5.
 Co to jest Closure / Domknięcie?
 Odp:
